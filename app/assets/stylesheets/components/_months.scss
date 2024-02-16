@@ -1,0 +1,45 @@
+.month-pair {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: solid;
+  align-items: center;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.month-this {
+  // justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 40px;
+  padding: 8px;
+  border: solid;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: darkblue;
+}
+.month-next {
+  // justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+  padding: 8px;
+  border: solid;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: darkblue;
+}
+
+.month-header {
+  // justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+  padding: 8px;
+  border: solid;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: darkblue;
+}
